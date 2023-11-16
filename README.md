@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **michaeljc76/michaeljc76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
