@@ -1,4 +1,7 @@
 ### Hello 👋
+I'm Michael, a third-year computer science major at Penn State 🌱
+I do a lot of web development, but I'm also interested in game and AI development 🎮
+Looking to collaborate 📫
 
 <!--
 **michaeljc76/michaeljc76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
