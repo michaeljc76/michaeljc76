@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello !
 - I'm Michael, a third-year computer science major at Penn State 🌱 <br>
 - I do a lot of web development, but I'm also interested in game and AI development 🎮 <br>
 - Looking to collaborate 📫
