@@ -1,5 +1,5 @@
 ### Hello !
-- I'm Michael, a third-year computer science major at Penn State <br>
+- I'm Michael, a fourth-year computer science major at Penn State <br>
 - I do a lot of full stack web development, but I'm also interested in AI and game development 🎮 <br>
 - Looking to collaborate 📫
 
