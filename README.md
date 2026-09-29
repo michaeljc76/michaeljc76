@@ -1,6 +1,6 @@
 ### Hello !
-- I'm Michael, a fourth-year computer science major at Penn State <br>
-- My main focus is software development, but I'm also interested in ML, web, and game development 🎮 <br>
+- I'm Michael, a computer science graduate from Penn State <br>
+- Interested in software, ML, web, and game development 🎮 <br>
 - Looking to collaborate 📫
 
 <!--
